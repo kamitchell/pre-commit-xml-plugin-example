@@ -6,3 +6,5 @@ repos:
         additional_dependencies:
           - prettier@3.0.3
           - "@prettier/plugin-xml@v3.2.1"
+        args:
+          - --plugin=@prettier/plugin-xml
